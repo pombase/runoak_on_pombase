@@ -1,0 +1,17 @@
+{
+  "constraints": {
+    "node_name": "subset: feature_type_ncRNA_gene",
+    "subset": {
+      "subset_name": "feature_type_ncRNA_gene"
+    }
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

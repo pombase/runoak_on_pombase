@@ -1,0 +1,21 @@
+{
+  "constraints": {
+    "node_name": "genes annotated with \"biological_process\" (GO:0008150)",
+    "term": {
+      "termid": "GO:0008150",
+      "name": "biological_process",
+      "expression": null,
+      "conditions": [],
+      "excluded_conditions": []
+    }
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

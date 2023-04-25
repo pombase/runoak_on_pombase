@@ -1,0 +1,23 @@
+{
+  "constraints": {
+    "node_name": "genes annotated with \"phenotype\" (FYPO:0000001) [single locus genotypes]",
+    "term": {
+      "termid": "FYPO:0000001",
+      "name": "phenotype",
+      "single_or_multi_locus": "single",
+      "ploidiness": "any",
+      "expression": null,
+      "conditions": [],
+      "excluded_conditions": []
+    }
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

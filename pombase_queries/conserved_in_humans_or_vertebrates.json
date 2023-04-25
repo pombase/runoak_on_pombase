@@ -1,0 +1,19 @@
+{
+  "constraints": {
+    "node_name": "Proteins conserved in human/vertebrates",
+    "term": {
+      "termid": "PBO:0011070",
+      "name": "conserved in vertebrates",
+      "expression": null
+    }
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

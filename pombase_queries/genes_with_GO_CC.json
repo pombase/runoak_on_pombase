@@ -1,0 +1,21 @@
+{
+  "constraints": {
+    "node_name": "genes annotated with \"cellular_component\" (GO:0005575)",
+    "term": {
+      "termid": "GO:0005575",
+      "name": "cellular_component",
+      "expression": null,
+      "conditions": [],
+      "excluded_conditions": []
+    }
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

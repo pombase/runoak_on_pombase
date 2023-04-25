@@ -1,0 +1,39 @@
+{
+  "constraints": {
+    "not": [
+      {
+        "not": [
+          {
+            "node_name": "subset: feature_type_mRNA_gene",
+            "subset": {
+              "subset_name": "feature_type_mRNA_gene"
+            }
+          },
+          {
+            "node_name": "subset: characterisation_status_transposon",
+            "subset": {
+              "subset_name": "characterisation_status_transposon"
+            }
+          }
+        ],
+        "node_name": "subset: feature_type_mRNA_gene NOT subset: characterisation_status_transposon"
+      },
+      {
+        "node_name": "subset: characterisation_status_dubious",
+        "subset": {
+          "subset_name": "characterisation_status_dubious"
+        }
+      }
+    ],
+    "node_name": "All protein coding genes (excluding dubious and transposon)"
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

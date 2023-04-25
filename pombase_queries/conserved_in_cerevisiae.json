@@ -1,0 +1,45 @@
+{
+  "constraints": {
+    "not": [
+      {
+        "node_name": "genes annotated with \"conserved in fungi\" (PBO:0011064)",
+        "term": {
+          "termid": "PBO:0011064",
+          "name": "conserved in fungi",
+          "expression": null
+        }
+      },
+      {
+        "or": [
+          {
+            "node_name": "genes annotated with \"no apparent S. cerevisiae ortholog\" (PBO:0000055)",
+            "term": {
+              "termid": "PBO:0000055",
+              "name": "no apparent S. cerevisiae ortholog",
+              "expression": null
+            }
+          },
+          {
+            "node_name": "genes annotated with \"orthologs cannot be distinguished\" (PBO:0000110)",
+            "term": {
+              "termid": "PBO:0000110",
+              "name": "orthologs cannot be distinguished",
+              "expression": null
+            }
+          }
+        ],
+        "node_name": "genes annotated with \"no apparent S. cerevisiae ortholog\" (PBO:0000055) OR genes annotated with \"orthologs cannot be distinguished\" (PBO:0000110)"
+      }
+    ],
+    "node_name": "Proteins conserved in <i>S. cerevisiae</i>"
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

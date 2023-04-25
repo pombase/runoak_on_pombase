@@ -1,0 +1,184 @@
+class_id	p_value	class_label	rank	p_value_adjusted	false_discovery_rate	fold_enrichment	probability	sample_count	sample_total	background_count	background_total	ancestor_of_more_informative_result	descendant_of_more_informative_result
+GO:0008017	2.2095409877274044e-79	microtubule binding	1	1.0561605921336993e-76	None	None	None	30	30	30	5057	None	None
+GO:0015631	1.205525562908926e-75	tubulin binding	2	5.762412190704666e-73	None	None	None	30	30	33	5057	True	None
+GO:0008092	1.9601749614812995e-57	cytoskeletal protein binding	3	9.369636315880612e-55	None	None	None	30	30	80	5057	True	None
+GO:0099080	3.0286782256826776e-41	supramolecular complex	4	1.4477081918763199e-38	None	None	None	28	30	159	5057	None	None
+GO:0005874	9.770715220569205e-39	microtubule	5	4.67040187543208e-36	None	None	None	20	30	37	5057	None	True
+GO:0007017	2.750610391208372e-38	microtubule-based process	6	1.3147917669976017e-35	None	None	None	24	30	91	5057	None	None
+GO:0099513	1.640755939881332e-37	polymeric cytoskeletal fiber	7	7.842813392632767e-35	None	None	None	20	30	41	5057	True	True
+GO:0099512	1.0675218393144059e-36	supramolecular fiber	8	5.10275439192286e-34	None	None	None	20	30	44	5057	True	True
+GO:0099081	1.0675218393144059e-36	supramolecular polymer	9	5.10275439192286e-34	None	None	None	20	30	44	5057	True	True
+GO:0007018	2.3409483554388636e-32	microtubule-based movement	10	1.1189733138997768e-29	None	None	None	18	30	41	5057	None	True
+GO:0000070	6.961272505903894e-30	mitotic sister chromatid segregation	11	3.3274882578220616e-27	None	None	None	21	30	105	5057	None	None
+GO:0000819	8.66607172913822e-30	sister chromatid segregation	12	4.142382286528069e-27	None	None	None	21	30	106	5057	True	None
+GO:0005881	1.8198512486752838e-29	cytoplasmic microtubule	13	8.698888968667857e-27	None	None	None	15	30	25	5057	None	True
+GO:0140014	8.364722841068022e-29	mitotic nuclear division	14	3.998337518030514e-26	None	None	None	21	30	117	5057	True	None
+GO:0015630	8.738395342908348e-29	microtubule cytoskeleton	15	4.1769529739101904e-26	None	None	None	25	30	251	5057	True	None
+GO:0000776	2.5152095967282388e-27	kinetochore	16	1.202270187236098e-24	None	None	None	18	30	70	5057	None	True
+GO:0098813	5.686092268051169e-27	nuclear chromosome segregation	17	2.717952104128459e-24	None	None	None	21	30	141	5057	True	None
+GO:0050000	1.0250199746540493e-26	chromosome localization	18	4.8995954788463556e-24	None	None	None	18	30	75	5057	None	None
+GO:0007059	1.0633152742065803e-26	chromosome segregation	19	5.0826470107074535e-24	None	None	None	21	30	145	5057	True	None
+GO:0000779	3.764763025208837e-26	condensed chromosome, centromeric region	20	1.7995567260498239e-23	None	None	None	18	30	80	5057	True	None
+GO:0051010	3.985379007438076e-26	microtubule plus-end binding	21	1.9050111655554e-23	None	None	None	11	30	11	5057	None	True
+GO:0000226	7.855672713797972e-26	microtubule cytoskeleton organization	22	3.7550115571954305e-23	None	None	None	17	30	65	5057	None	True
+GO:0007080	1.1147275821654111e-25	mitotic metaphase plate congression	23	5.328397842750665e-23	None	None	None	16	30	51	5057	None	True
+GO:0051640	3.1864270090802328e-25	organelle localization	24	1.5231121103403513e-22	None	None	None	21	30	169	5057	True	None
+GO:0051310	3.2517851724108347e-25	metaphase plate congression	25	1.5543533124123789e-22	None	None	None	16	30	54	5057	True	True
+GO:0005876	5.936288811265627e-25	spindle microtubule	26	2.8375460517849696e-22	None	None	None	13	30	23	5057	None	True
+GO:0005856	7.639605791831489e-25	cytoskeleton	27	3.651731568495452e-22	None	None	None	25	30	357	5057	True	None
+GO:1902850	1.3964804399816668e-24	microtubule cytoskeleton organization involved in mitosis	28	6.675176503112367e-22	None	None	None	14	30	33	5057	None	True
+GO:0008608	2.2700224126491168e-24	attachment of spindle microtubules to kinetochore	29	1.0850707132462778e-21	None	None	None	16	30	60	5057	None	True
+GO:1903047	6.597029898554406e-24	mitotic cell cycle process	30	3.153380291509006e-21	None	None	None	24	30	330	5057	True	None
+GO:0000793	6.660993538713422e-24	condensed chromosome	31	3.1839549115050155e-21	None	None	None	18	30	104	5057	True	None
+GO:0000278	9.531032652781894e-24	mitotic cell cycle	32	4.555833608029746e-21	None	None	None	24	30	335	5057	True	None
+GO:0007051	1.029238823933024e-23	spindle organization	33	4.9197615783998546e-21	None	None	None	14	30	37	5057	None	True
+GO:0051303	1.2775470421745539e-23	establishment of chromosome localization	34	6.106674861594368e-21	None	None	None	16	30	66	5057	True	True
+GO:0000280	2.4282678324633292e-23	nuclear division	35	1.1607120239174714e-20	None	None	None	21	30	206	5057	True	None
+GO:0048285	4.087042252154518e-23	organelle fission	36	1.9536061965298595e-20	None	None	None	21	30	211	5057	True	None
+GO:0000022	5.365305671942182e-23	mitotic spindle elongation	37	2.564616111188363e-20	None	None	None	11	30	15	5057	None	True
+GO:0051231	5.365305671942182e-23	spindle elongation	38	2.564616111188363e-20	None	None	None	11	30	15	5057	True	True
+GO:0007052	1.0436360041114804e-22	mitotic spindle organization	39	4.988580099652876e-20	None	None	None	13	30	31	5057	True	True
+GO:0051305	1.1022960527666204e-22	chromosome movement towards spindle pole	40	5.268975132224446e-20	None	None	None	10	30	11	5057	None	True
+GO:0051656	1.2316722314534834e-22	establishment of organelle localization	41	5.887393266347651e-20	None	None	None	18	30	121	5057	True	True
+GO:0051315	2.7460781481953264e-22	attachment of mitotic spindle microtubules to kinetochore	42	1.312625354837366e-19	None	None	None	14	30	45	5057	None	True
+GO:0051276	4.593806996092294e-22	chromosome organization	43	2.1958397441321164e-19	None	None	None	21	30	236	5057	True	None
+GO:0000775	1.9661813860657686e-21	chromosome, centromeric region	44	9.398347025394374e-19	None	None	None	18	30	140	5057	True	None
+GO:0005819	2.7699637067711777e-21	spindle	45	1.324042651836623e-18	None	None	None	17	30	114	5057	True	True
+GO:0072686	1.0910814803435856e-20	mitotic spindle	46	5.215369476042339e-18	None	None	None	16	30	97	5057	None	True
+GO:0045132	2.095220047902037e-20	meiotic chromosome segregation	47	1.0015151828971736e-17	None	None	None	15	30	78	5057	None	True
+GO:0003777	2.4084848262025794e-20	microtubule motor activity	48	1.151255746924833e-17	None	None	None	9	30	10	5057	None	None
+GO:0022402	5.507518234791461e-20	cell cycle process	49	2.6325937162303184e-17	None	None	None	24	30	479	5057	True	None
+GO:0005515	1.0372389372475262e-19	protein binding	50	4.958002120043176e-17	None	None	None	30	30	1189	5057	True	None
+GO:0007049	1.399313555139351e-19	cell cycle	51	6.688718793566098e-17	None	None	None	24	30	498	5057	True	None
+GO:0098687	1.5736144114210489e-19	chromosomal region	52	7.521876886592613e-17	None	None	None	18	30	177	5057	True	None
+GO:0000940	1.9070904533085925e-19	outer kinetochore	53	9.115892366815072e-17	None	None	None	10	30	17	5057	None	True
+GO:0007010	8.199883174635996e-19	cytoskeleton organization	54	3.919544157476006e-16	None	None	None	17	30	157	5057	True	None
+GO:0006996	1.2228828368685012e-18	organelle organization	55	5.845379960231436e-16	None	None	None	27	30	833	5057	True	None
+GO:0005815	1.2742474433150618e-18	microtubule organizing center	56	6.090902779045995e-16	None	None	None	17	30	161	5057	None	True
+GO:0090307	1.7922024803551093e-18	mitotic spindle assembly	57	8.566727856097422e-16	None	None	None	10	30	20	5057	None	True
+GO:0051225	1.7922024803551093e-18	spindle assembly	58	8.566727856097422e-16	None	None	None	10	30	20	5057	True	True
+GO:0140013	2.2381157151197594e-18	meiotic nuclear division	59	1.069819311827245e-15	None	None	None	16	30	133	5057	True	True
+GO:0035371	4.749953618228543e-18	microtubule plus-end	60	2.2704778295132434e-15	None	None	None	9	30	14	5057	None	True
+GO:1990752	4.749953618228543e-18	microtubule end	61	2.2704778295132434e-15	None	None	None	9	30	14	5057	True	True
+GO:0098653	4.749953618228543e-18	centromere clustering	62	2.2704778295132434e-15	None	None	None	9	30	14	5057	None	True
+GO:0072765	4.749953618228543e-18	centromere localization	63	2.2704778295132434e-15	None	None	None	9	30	14	5057	True	True
+GO:1990571	4.974080772108773e-18	meiotic centromere clustering	64	2.3776106090679935e-15	None	None	None	8	30	9	5057	None	True
+GO:0016344	4.974080772108773e-18	meiotic chromosome movement towards spindle pole	65	2.3776106090679935e-15	None	None	None	8	30	9	5057	True	True
+GO:0043232	3.3905884547237056e-17	intracellular non-membrane-bounded organelle	66	1.6207012813579312e-14	None	None	None	30	30	1439	5057	True	None
+GO:0043228	3.3905884547237056e-17	non-membrane-bounded organelle	67	1.6207012813579312e-14	None	None	None	30	30	1439	5057	True	None
+GO:0010970	5.042000053481186e-17	transport along microtubule	68	2.4100760255640068e-14	None	None	None	10	30	26	5057	None	True
+GO:1903046	5.994110103168487e-17	meiotic cell cycle process	69	2.865184629314537e-14	None	None	None	17	30	201	5057	True	True
+GO:0003774	1.1363651864766844e-16	cytoskeletal motor activity	70	5.4318255913585514e-14	None	None	None	9	30	18	5057	True	None
+GO:0005871	1.2182017566500545e-16	kinesin complex	71	5.82300439678726e-14	None	None	None	7	30	7	5057	None	True
+GO:0030705	1.2366893373349653e-16	cytoskeleton-dependent intracellular transport	72	5.911375032461135e-14	None	None	None	10	30	28	5057	True	None
+GO:0051321	2.413768290143497e-16	meiotic cell cycle	73	1.1537812426885916e-13	None	None	None	17	30	218	5057	True	True
+GO:0099111	2.8109474080684223e-16	microtubule-based transport	74	1.3436328610567058e-13	None	None	None	10	30	30	5057	True	None
+GO:0005816	1.404831222491095e-15	spindle pole body	75	6.715093243507433e-13	None	None	None	15	30	158	5057	None	True
+GO:0005875	1.8744241751200128e-15	microtubule associated complex	76	8.959747557073661e-13	None	None	None	9	30	23	5057	True	True
+GO:0019953	4.230741811441091e-15	sexual reproduction	77	2.0222945858688415e-12	None	None	None	17	30	258	5057	True	None
+GO:0061804	4.350640067515406e-15	mitotic spindle formation (spindle phase one)	78	2.079605952272364e-12	None	None	None	7	30	9	5057	None	True
+GO:0044732	7.268074398944125e-15	mitotic spindle pole body	79	3.474139562695292e-12	None	None	None	14	30	139	5057	None	True
+GO:0022414	1.678490150332173e-14	reproductive process	80	8.023182918587786e-12	None	None	None	17	30	280	5057	True	None
+GO:0098840	2.563807113671272e-14	protein transport along microtubule	81	1.225499800334868e-11	None	None	None	6	30	6	5057	None	True
+GO:0099118	2.563807113671272e-14	microtubule-based protein transport	82	1.225499800334868e-11	None	None	None	6	30	6	5057	True	True
+GO:0008574	2.563807113671272e-14	plus-end-directed microtubule motor activity	83	1.225499800334868e-11	None	None	None	6	30	6	5057	None	True
+GO:0000003	3.202326848390021e-14	reproduction	84	1.53071223353043e-11	None	None	None	17	30	291	5057	True	None
+GO:0000235	3.956354932099855e-14	astral microtubule	85	1.8911376575437307e-11	None	None	None	7	30	11	5057	None	True
+GO:0051649	4.554217713211554e-14	establishment of localization in cell	86	2.176916066915123e-11	None	None	None	21	30	569	5057	True	None
+GO:0051641	8.104356636437478e-14	cellular localization	87	3.8738824722171145e-11	None	None	None	22	30	673	5057	True	None
+GO:0031503	8.519775444007138e-14	protein-containing complex localization	88	4.0724526622354115e-11	None	None	None	9	30	33	5057	True	None
+GO:0005818	9.457394838417187e-14	aster	89	4.520634732763415e-11	None	None	None	7	30	12	5057	True	True
+GO:0097435	1.1078180909995451e-13	supramolecular fiber organization	90	5.2953704749778254e-11	None	None	None	10	30	51	5057	None	None
+GO:0016043	2.898173072558229e-13	cellular component organization	91	1.3853267286828332e-10	None	None	None	27	30	1327	5057	True	None
+GO:0051179	7.01762237537016e-13	localization	92	3.3544234954269367e-10	None	None	None	25	30	1084	5057	True	None
+GO:0031109	1.3444063212815703e-12	microtubule polymerization or depolymerization	93	6.426262215725906e-10	None	None	None	7	30	16	5057	None	True
+GO:0055028	2.1273895440117116e-12	cortical microtubule	94	1.0168922020375982e-09	None	None	None	6	30	9	5057	None	True
+GO:0061673	5.180941415303948e-12	mitotic spindle astral microtubule	95	2.476489996515287e-09	None	None	None	5	30	5	5057	None	True
+GO:1990295	5.180941415303948e-12	post-anaphase microtubule array	96	2.476489996515287e-09	None	None	None	5	30	5	5057	None	True
+GO:1904511	5.296807368877487e-12	cytoplasmic microtubule plus-end	97	2.5318739223234386e-09	None	None	None	6	30	10	5057	None	True
+GO:0070192	5.316090284422284e-12	chromosome organization involved in meiotic cell cycle	98	2.541091155953852e-09	None	None	None	8	30	32	5057	True	True
+GO:0051455	9.105219662667148e-12	monopolar spindle attachment to meiosis I kinetochore	99	4.352294998754897e-09	None	None	None	8	30	34	5057	None	True
+GO:0051316	1.9136791954591333e-11	attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation	100	9.147386554294658e-09	None	None	None	8	30	37	5057	True	True
+GO:0030981	2.311642595636989e-11	cortical microtubule cytoskeleton	101	1.1049651607144807e-08	None	None	None	6	30	12	5057	True	True
+GO:0007019	3.095745813599952e-11	microtubule depolymerization	102	1.4797664989007771e-08	None	None	None	5	30	6	5057	None	True
+GO:1990023	3.9392918562037054e-11	mitotic spindle midzone	103	1.8829815072653713e-08	None	None	None	7	30	24	5057	None	True
+GO:0051233	3.9392918562037054e-11	spindle midzone	104	1.8829815072653713e-08	None	None	None	7	30	24	5057	True	True
+GO:0071840	5.0987079853856874e-11	cellular component organization or biogenesis	105	2.4371824170143586e-08	None	None	None	27	30	1618	5057	True	None
+GO:1990758	5.449393436829784e-11	mitotic sister chromatid biorientation	106	2.6048100628046368e-08	None	None	None	7	30	25	5057	None	True
+GO:0031134	5.449393436829784e-11	sister chromatid biorientation	107	2.6048100628046368e-08	None	None	None	7	30	25	5057	True	True
+GO:0001578	1.0790426453508555e-10	microtubule bundle formation	108	5.1578238447770895e-08	None	None	None	5	30	7	5057	None	True
+GO:0140694	1.2553306160188433e-10	non-membrane-bounded organelle assembly	109	6.000480344570072e-08	None	None	None	10	30	100	5057	True	True
+GO:0099070	2.8655798830201227e-10	static microtubule bundle	110	1.3697471840836187e-07	None	None	None	5	30	8	5057	None	True
+GO:0097427	2.8655798830201227e-10	microtubule bundle	111	1.3697471840836187e-07	None	None	None	5	30	8	5057	True	True
+GO:0051261	2.8655798830201227e-10	protein depolymerization	112	1.3697471840836187e-07	None	None	None	5	30	8	5057	True	True
+GO:0031122	3.033617926005541e-10	cytoplasmic microtubule organization	113	1.4500693686306485e-07	None	None	None	6	30	17	5057	None	True
+GO:0005694	3.151244365497965e-10	chromosome	114	1.5062948067080273e-07	None	None	None	18	30	594	5057	True	True
+GO:0000212	6.42096236744573e-10	meiotic spindle organization	115	3.069220011639059e-07	None	None	None	5	30	9	5057	None	True
+GO:0045143	6.538100668347552e-10	homologous chromosome segregation	116	3.1252121194701295e-07	None	None	None	8	30	56	5057	True	True
+GO:0007127	6.616378849790289e-10	meiosis I	117	3.162629090199758e-07	None	None	None	10	30	118	5057	True	True
+GO:0070925	6.616378849790289e-10	organelle assembly	118	3.162629090199758e-07	None	None	None	10	30	118	5057	True	True
+GO:0061982	9.999807985594473e-10	meiosis I cell cycle process	119	4.779908217114158e-07	None	None	None	10	30	123	5057	True	True
+GO:0140210	1.006896037372093e-09	protein transport along microtubule to kinetochore	120	4.812963058638604e-07	None	None	None	4	30	4	5057	None	True
+GO:0090306	1.006896037372093e-09	meiotic spindle assembly	121	4.812963058638604e-07	None	None	None	4	30	4	5057	None	True
+GO:0031262	1.006896037372093e-09	Ndc80 complex	122	4.812963058638604e-07	None	None	None	4	30	4	5057	None	True
+GO:0070199	1.006896037372093e-09	establishment of protein localization to chromosome	123	4.812963058638604e-07	None	None	None	4	30	4	5057	True	True
+GO:0072687	1.7919384134102498e-09	meiotic spindle	124	8.565465616100994e-07	None	None	None	6	30	22	5057	None	True
+GO:0005488	2.0751364817771938e-09	binding	125	9.919152382894987e-07	None	None	None	30	30	2604	5057	True	None
+GO:0051234	2.141751748278711e-09	establishment of localization	126	1.0237573356772238e-06	None	None	None	21	30	980	5057	True	True
+GO:0051256	5.013756421145964e-09	mitotic spindle midzone assembly	127	2.3965755693077705e-06	None	None	None	4	30	5	5057	None	True
+GO:0051255	5.013756421145964e-09	spindle midzone assembly	128	2.3965755693077705e-06	None	None	None	4	30	5	5057	True	True
+GO:1990498	3.480795445786051e-08	mitotic spindle microtubule	129	1.6638202230857324e-05	None	None	None	4	30	7	5057	None	True
+GO:0034501	3.480795445786051e-08	protein localization to kinetochore	130	1.6638202230857324e-05	None	None	None	4	30	7	5057	True	True
+GO:1903083	3.480795445786051e-08	protein localization to condensed chromosome	131	1.6638202230857324e-05	None	None	None	4	30	7	5057	True	True
+GO:0007163	4.806577440812623e-08	establishment or maintenance of cell polarity	132	2.297544016708434e-05	None	None	None	7	30	62	5057	None	None
+GO:0071459	6.932935092673035e-08	protein localization to chromosome, centromeric region	133	3.313942974297711e-05	None	None	None	4	30	8	5057	True	True
+GO:0061805	1.884760212162445e-07	mitotic spindle elongation (spindle phase three)	134	9.009153814136487e-05	None	None	None	3	30	3	5057	None	True
+GO:0007079	1.884760212162445e-07	mitotic chromosome movement towards spindle pole	135	9.009153814136487e-05	None	None	None	3	30	3	5057	None	True
+GO:0030951	1.884760212162445e-07	establishment or maintenance of microtubule cytoskeleton polarity	136	9.009153814136487e-05	None	None	None	3	30	3	5057	None	True
+GO:0005938	3.279419225227584e-07	cell cortex	137	0.0001567562389658785	None	None	None	10	30	224	5057	True	None
+GO:0000922	4.82235291822008e-07	spindle pole	138	0.00023050846949091984	None	None	None	4	30	12	5057	None	True
+GO:0034502	4.82235291822008e-07	protein localization to chromosome	139	0.00023050846949091984	None	None	None	4	30	12	5057	True	True
+GO:0008569	7.508833967549385e-07	minus-end-directed microtubule motor activity	140	0.00035892226364886063	None	None	None	3	30	4	5057	None	True
+GO:0072698	9.671755621306528e-07	protein localization to microtubule cytoskeleton	141	0.00046230991869845205	None	None	None	4	30	14	5057	None	True
+GO:0032984	1.09518749689669e-06	protein-containing complex disassembly	142	0.0005234996235166178	None	None	None	5	30	33	5057	True	True
+GO:0022607	1.3171890740971418e-06	cellular component assembly	143	0.0006296163774184338	None	None	None	13	30	486	5057	True	True
+GO:1990942	1.8696878572599315e-06	mitotic metaphase chromosome recapture	144	0.0008937107957702473	None	None	None	3	30	5	5057	None	True
+GO:0005827	1.8696878572599315e-06	polar microtubule	145	0.0008937107957702473	None	None	None	3	30	5	5057	None	True
+GO:0044380	2.9082234087533915e-06	protein localization to cytoskeleton	146	0.001390130789384121	None	None	None	4	30	18	5057	True	True
+GO:0140483	3.7243963601817244e-06	kinetochore adaptor activity	147	0.0017802614601668642	None	None	None	3	30	6	5057	None	None
+GO:1902426	1.5455274401524815e-05	deactivation of mitotic spindle assembly checkpoint	148	0.007387621163928861	None	None	None	3	30	9	5057	None	None
+GO:0090619	1.5455274401524815e-05	meiotic spindle pole	149	0.007387621163928861	None	None	None	3	30	9	5057	None	True
+GO:0140499	2.199055800457753e-05	negative regulation of mitotic spindle assembly checkpoint signaling	150	0.01051148672618806	None	None	None	3	30	10	5057	True	None
+GO:0042729	2.199055800457753e-05	DASH complex	151	0.01051148672618806	None	None	None	3	30	10	5057	None	True
+GO:0090233	2.199055800457753e-05	negative regulation of spindle checkpoint	152	0.01051148672618806	None	None	None	3	30	10	5057	True	None
+GO:1901977	2.199055800457753e-05	negative regulation of cell cycle checkpoint	153	0.01051148672618806	None	None	None	3	30	10	5057	True	None
+GO:0016887	2.2598983380992118e-05	ATP hydrolysis activity	154	0.010802314056114232	None	None	None	9	30	281	5057	None	None
+GO:0140657	2.3253222827550993e-05	ATP-dependent activity	155	0.011115040511569375	None	None	None	9	30	282	5057	True	None
+GO:0090266	3.0115960146685413e-05	regulation of mitotic cell cycle spindle assembly checkpoint	156	0.014395428950115627	None	None	None	3	30	11	5057	True	None
+GO:0046785	3.0115960146685413e-05	microtubule polymerization	157	0.014395428950115627	None	None	None	3	30	11	5057	None	True
+GO:1903504	3.0115960146685413e-05	regulation of mitotic spindle checkpoint	158	0.014395428950115627	None	None	None	3	30	11	5057	True	None
+GO:0090231	3.0115960146685413e-05	regulation of spindle checkpoint	159	0.014395428950115627	None	None	None	3	30	11	5057	True	None
+GO:1901976	3.0115960146685413e-05	regulation of cell cycle checkpoint	160	0.014395428950115627	None	None	None	3	30	11	5057	True	None
+GO:0051300	3.0115960146685413e-05	spindle pole body organization	161	0.014395428950115627	None	None	None	3	30	11	5057	None	True
+GO:0000073	3.4026653116504004e-05	initial mitotic spindle pole body separation	162	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0140642	3.4026653116504004e-05	meiotic spindle formation (spindle phase two)	163	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0140641	3.4026653116504004e-05	mitotic spindle formation (spindle phase two)	164	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0036449	3.4026653116504004e-05	microtubule minus-end	165	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:1905759	3.4026653116504004e-05	post-anaphase array microtubule	166	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0005873	3.4026653116504004e-05	plus-end kinesin complex	167	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0016938	3.4026653116504004e-05	kinesin I complex	168	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0070462	3.4026653116504004e-05	plus-end specific microtubule depolymerization	169	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:1905047	3.4026653116504004e-05	mitotic spindle pole body organization	170	0.016264740189688914	None	None	None	2	30	2	5057	True	True
+GO:0061863	3.4026653116504004e-05	microtubule plus end polymerase	171	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0110100	3.4026653116504004e-05	spindle pole body separation	172	0.016264740189688914	None	None	None	2	30	2	5057	True	True
+GO:0035372	3.4026653116504004e-05	protein localization to microtubule	173	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0099609	3.4026653116504004e-05	microtubule lateral binding	174	0.016264740189688914	None	None	None	2	30	2	5057	None	True
+GO:0070850	3.4026653116504004e-05	TACC/TOG complex	175	0.016264740189688914	None	None	None	2	30	2	5057	None	None
+GO:0030863	3.971996403485068e-05	cortical cytoskeleton	176	0.018986142808658624	None	None	None	6	30	112	5057	True	True
+GO:0062033	3.999386843164589e-05	positive regulation of mitotic sister chromatid segregation	177	0.019117069110326738	None	None	None	3	30	12	5057	True	None
+GO:0030952	3.999386843164589e-05	establishment or maintenance of cytoskeleton polarity	178	0.019117069110326738	None	None	None	3	30	12	5057	True	True
+GO:0033365	4.36578105888963e-05	protein localization to organelle	179	0.02086843346149243	None	None	None	8	30	233	5057	True	True
+GO:0031023	5.1783920468989104e-05	microtubule organizing center organization	180	0.02475271398417679	None	None	None	3	30	13	5057	True	True
+GO:0022411	6.272473041268123e-05	cellular component disassembly	181	0.029982421137261628	None	None	None	5	30	74	5057	True	True
+GO:0051258	8.172542908273863e-05	protein polymerization	182	0.03906475510154906	None	None	None	3	30	15	5057	True	True
+GO:2001252	0.00010018266928869249	positive regulation of chromosome organization	183	0.04788731591999501	None	None	None	3	30	16	5057	True	None

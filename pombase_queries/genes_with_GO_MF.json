@@ -1,0 +1,21 @@
+{
+  "constraints": {
+    "node_name": "genes annotated with \"molecular_function\" (GO:0003674)",
+    "term": {
+      "termid": "GO:0003674",
+      "name": "molecular_function",
+      "expression": null,
+      "conditions": [],
+      "excluded_conditions": []
+    }
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

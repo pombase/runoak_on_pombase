@@ -1,0 +1,34 @@
+{
+  "constraints": {
+    "or": [
+      {
+        "node_name": "subset: characterisation_status_conserved_unknown",
+        "subset": {
+          "subset_name": "characterisation_status_conserved_unknown"
+        }
+      },
+      {
+        "node_name": "subset: characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized",
+        "subset": {
+          "subset_name": "characterisation_status_Schizosaccharomyces_pombe_specific_protein_uncharacterized"
+        }
+      },
+      {
+        "node_name": "subset: characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized",
+        "subset": {
+          "subset_name": "characterisation_status_Schizosaccharomyces_specific_protein_uncharacterized"
+        }
+      }
+    ],
+    "node_name": "Protein coding genes, unknown process"
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

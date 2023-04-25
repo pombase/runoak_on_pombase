@@ -1,0 +1,82 @@
+{
+  "constraints": {
+    "or": [
+      {
+        "node_name": "subset: feature_type_antisense_RNA_gene",
+        "subset": {
+          "subset_name": "feature_type_antisense_RNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_guide_RNA_gene",
+        "subset": {
+          "subset_name": "feature_type_guide_RNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_lncRNA_gene",
+        "subset": {
+          "subset_name": "feature_type_lncRNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_mRNA_gene",
+        "subset": {
+          "subset_name": "feature_type_mRNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_ncRNA_gene",
+        "subset": {
+          "subset_name": "feature_type_ncRNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_pseudogene",
+        "subset": {
+          "subset_name": "feature_type_pseudogene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_rRNA_gene",
+        "subset": {
+          "subset_name": "feature_type_rRNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_sncRNA_gene",
+        "subset": {
+          "subset_name": "feature_type_sncRNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_snoRNA_gene",
+        "subset": {
+          "subset_name": "feature_type_snoRNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_snRNA_gene",
+        "subset": {
+          "subset_name": "feature_type_snRNA_gene"
+        }
+      },
+      {
+        "node_name": "subset: feature_type_tRNA_gene",
+        "subset": {
+          "subset_name": "feature_type_tRNA_gene"
+        }
+      }
+    ],
+    "node_name": "All genes"
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}

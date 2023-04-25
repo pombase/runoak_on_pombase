@@ -1,0 +1,21 @@
+{
+  "constraints": {
+    "node_name": "Viable deletions and disruptions",
+    "term": {
+      "termid": "FYPO:0002060",
+      "name": "viable vegetative cell population",
+      "single_or_multi_locus": "single",
+      "ploidiness": "haploid",
+      "expression": "null"
+    }
+  },
+  "output_options": {
+    "field_names": [],
+    "flags": [],
+    "ancestor_terms": [],
+    "sequence": "none",
+    "gaf_options": {
+      "aspects": []
+    }
+  }
+}
