@@ -1,10 +1,10 @@
 # PomBase OAK
 
-A few script to test runoak on PomBase data
+A few scripts to test runoak on PomBase data
 
 ## Installation
 
-To install the dependencies, we used poetry (see [poetry installation instructions](https://python-poetry.org/docs/)). These scripts work with poetry version 1.4.2, to update you can do `$poetry self update`.
+To install the dependencies, we used poetry (see [poetry installation instructions](https://python-poetry.org/docs/)). These scripts work with poetry version 1.4.2, to update you can do `poetry self update`.
 
 In the source directory run:
 
