@@ -27,3 +27,5 @@ Execute the bash script `get_data.sh`, see the comments to see what the script d
 ## Running the enrichment
 
 To run the enrichments, see `example_enrichment.sh`. Full documentation on how to run the enrichment can be found [here](https://incatools.github.io/ontology-access-kit/cli.html#runoak-enrichment).
+
+* **Taxon constrains**: there is no need to run taxon constrains, as terms with less than two annotations from the GO ontology are excluded from the analysis. There are some edge cases, discussed in [this issue](https://github.com/INCATools/ontology-access-kit/issues/556).
