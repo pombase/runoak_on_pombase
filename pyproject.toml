@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Manuel Lera Ramirez <manulera14@gmail.com>"]
 readme = "README.md"
-packages = [{include = "pombase_oak"}]
+
 
 [tool.poetry.dependencies]
 python = "^3.9"
